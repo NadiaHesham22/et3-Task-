@@ -31,3 +31,15 @@ A program that analyzes a .txt file and reports word frequencies.
   ## Example output for the bar chart when we tested a large text with 700 words
 
 <img width="1051" height="779" alt="Capture" src="https://github.com/user-attachments/assets/240c7fda-8516-4a22-9f07-5e620487505f" />
+
+
+## The main git commands that we used 
+- git init
+- git add main.py "large text.txt" "medium text.txt" "small text.txt" (did not add the env file as it is so big and unnecessary)
+- git commit -m "initial commit"
+- git remote add origin https://github.com/NadiaHesham22/et3-Task-
+- git branch -M main
+- git push -u origin main
+  
+
+  
