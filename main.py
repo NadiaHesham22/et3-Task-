@@ -1,10 +1,23 @@
 import nltk
 from nltk.corpus import stopwords
 import matplotlib.pyplot as plt
+import tkinter as tk
+from tkinter import filedialog
 
+# Hide the main Tkinter window
+root = tk.Tk()
+root.withdraw()
+
+# Open file dialog
+file_path = filedialog.askopenfilename(
+    title="Select a text file",
+    filetypes=[("Text files", "*.txt")]
+)
+
+print(f"Selected file: {file_path}")
 #nltk.download("stopwords")
 
-file_path=r"C:\Users\Dell\Desktop\et3 task\large text.txt"
+#file_path=r"C:\Users\Dell\Desktop\et3 task\large text.txt"
 
 with open(file_path,"r",encoding="utf-8") as file:  #opening the file in read mode
     text = file.read().lower()  #reading the file contents and converting all text to lower
