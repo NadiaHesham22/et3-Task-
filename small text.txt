@@ -1,0 +1,4 @@
+The quick brown fox jumps over the lazy dog.
+The dog barked 3 times, and then ran away.
+I love programming in Python, and Python loves me!
+A cat, a dog, and a fox walked into the forest.
