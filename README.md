@@ -2,7 +2,7 @@
 ## Word Frequency Analyzer
 A program that analyzes a .txt file and reports word frequencies.
 
-- It is a small program written in Python using VS code and two libraries NLTK and Matplotlib
+ It is a small program written in Python using VS code and two libraries NLTK and Matplotlib
 
 ## How to run the program 
 
@@ -15,8 +15,6 @@ A program that analyzes a .txt file and reports word frequencies.
     ```bash
     # Windows
     env\Scripts\activate
-    # Mac/Linux
-    source env/bin/activate
     ```
 
 3. **Install required libraries**
