@@ -24,8 +24,9 @@ A program that analyzes a .txt file and reports word frequencies.
     pip install matplotlib
     ```
 
-
-- The program also has the feature to generate a bar chart of the top words.
+## Extra Features 
+- The program has the feature to generate a bar chart of the top words.
+- The ability to choose the text file at runtime.
 
   ## Example output for the bar chart when we tested a large text with 700 words
 
