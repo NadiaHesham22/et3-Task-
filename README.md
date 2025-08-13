@@ -2,8 +2,8 @@
 ## Word Frequency Analyzer
 A program that analyzes a .txt file and reports word frequencies.
 
--It is a small program written in Python using VS code and two libraries NLTK and Matplotlib
--The approach was to clean the text by removing punctuation, numbers, stopwords, and very short words (two characters or fewer) so that the remaining words are more meaningful, producing clearer and more relevant results.
+- It is a small program written in Python using VS code and two libraries NLTK and Matplotlib
+- The approach was to clean the text by removing punctuation, numbers, stopwords, and very short words (two characters or fewer) so that the remaining words are more meaningful, producing clearer and more relevant results.
 
 ## How to run the program 
 
